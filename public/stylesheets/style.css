@@ -8,11 +8,14 @@ body {
   padding: 50px;
   font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
-/*********************************Home page****************************************/
 a {
   color: #00B7FF;
 }
+.page {
+  background: #e6e6e6;
+}
+
+/*********************************Home page****************************************/
 @media (min-width: 768px){
   .navbar-nav{
     margin: 0 auto;
@@ -138,4 +141,31 @@ div.contactme div.contact span {
 }
 div.contactme div.contact span img {
   margin-right: 20px;
+}
+form {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+  height: 425px;
+}
+form div {
+  padding-left: 73px;
+  position: relative;
+  top:20px;
+}
+form label {
+  width:80px;
+}
+span#button button {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top:20px;
+}
+.btn {
+  background: #3F51B5;
+  border:#3F51B5;
+}
+.btn:hover {
+  background: rgba(63, 81, 181, .9);
 }

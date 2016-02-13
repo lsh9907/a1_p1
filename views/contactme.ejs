@@ -16,6 +16,30 @@
             </div>
         </div>
     </div>
+    <!--User's message-->
+    <h1>Message</h1>
+    <div class="row message">
+        <!--Message form-->
+        <form name="messageform" action="#" method="post" class="form-horizontal well">
+            <div class="form-group form-inline">
+                <label for="name">Name: </label>
+                <input id="name" name="name" placeholder="Ex)Sunghie Lee" class="form-control">
+            </div>
+            <div class="form-group form-inline">
+                <label for="phone">Phone: </label>
+                <input id="phone" name="phone" placeholder="Ex)705 500 2194" class="form-control">
+            </div>
+            <div class="form-group form-inline">
+                <label for="email">Email: </label>
+                <input type="email" id="email" name="email" placeholder="Ex lsh9907@hotmail.com" class="form-control">
+            </div>
+            <div class="form-group form-inline">
+                <label for="message">Message: </label>
+                <textarea cols="50" rows="5" id="message" name="message" placeholder="Leave your message" class="form-control"></textarea>
+            </div>
+            <span id="button"><button type="submit" class="btn btn-info btn-lg">Submit</button></span>
+        </form>
+    </div>
 </main>
 <!--Common footer-->
 <%- include partials/footer.ejs %>

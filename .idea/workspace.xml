@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a55975-8469-411a-a27f-a25a88d271da" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/email2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/mobile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/phone2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/website2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logos/logo2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/htmlcssjs2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/phpmysql2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/psill.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/skills/htmlcssjs.png" afterPath="$PROJECT_DIR$/public/images/skills/htmlcssjs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/aboutme.ejs" afterPath="$PROJECT_DIR$/views/aboutme.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.ejs" afterPath="$PROJECT_DIR$/views/home.ejs" />
     </list>
     <ignored path="a1_p1.iws" />
@@ -26,8 +36,8 @@
       <file leaf-file-name="home.ejs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/home.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3564516">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.41129032">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -58,9 +68,9 @@
         <option value="$PROJECT_DIR$/views/partials/header.ejs" />
         <option value="$PROJECT_DIR$/views/services.ejs" />
         <option value="$PROJECT_DIR$/views/contactme.ejs" />
-        <option value="$PROJECT_DIR$/views/aboutme.ejs" />
         <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/views/home.ejs" />
+        <option value="$PROJECT_DIR$/views/aboutme.ejs" />
       </list>
     </option>
   </component>
@@ -369,11 +379,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/skills/htmlcssjs2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/images/projects/spk.PNG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -404,14 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34274194">
           <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/aboutme.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41129032">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,10 +452,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/aboutme.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65806454">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/home.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3564516">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.41129032">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
           <folding />
         </state>
       </provider>

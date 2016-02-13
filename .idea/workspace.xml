@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77a55975-8469-411a-a27f-a25a88d271da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/email2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/mobile2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/phone2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/icons/website2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/logos/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/htmlcssjs2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/phpmysql2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/skills/psill.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/skills/htmlcssjs.png" afterPath="$PROJECT_DIR$/public/images/skills/htmlcssjs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/aboutme.ejs" afterPath="$PROJECT_DIR$/views/aboutme.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.ejs" afterPath="$PROJECT_DIR$/views/home.ejs" />
-    </list>
+    <list default="true" id="77a55975-8469-411a-a27f-a25a88d271da" name="Default" comment="" />
     <ignored path="a1_p1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,7 +258,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20424597" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />

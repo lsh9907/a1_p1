@@ -1,4 +1,21 @@
+<!--Common header-->
 <%- include partials/header.ejs %>
-<h1><%= title %></h1>
-<p>Welcome to <%= title %></p>
+<main role="main">
+    <!--Title-->
+    <h1><%= title %></h1>
+    <div class="row">
+        <!--Contact information-->
+        <div class="contactme well panel panel-default">
+            <h2 class="panel-heading">Want to Work with Sunghie?</h2>
+            <p class="panel-body">If you have any questions about me or my services,
+                please don’t hesitate to contact by phone or email. I will be very happy to answer your questions.</p>
+            <!--Contact images-->
+            <div class="contact">
+                <span class="well"><img src="../images/icons/phone.png">705 500 2194</span>
+                <span class="well"><img src="../images/icons/email.png">lsh9907@hotmail.com</span>
+            </div>
+        </div>
+    </div>
+</main>
+<!--Common footer-->
 <%- include partials/footer.ejs %>

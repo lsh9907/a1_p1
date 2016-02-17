@@ -20,14 +20,10 @@
     <h1>Message</h1>
     <div class="row message">
         <!--Message form-->
-        <form name="messageform" action="#" method="post" class="form-horizontal well">
+        <form name="messageform" action="/send" method="post" enctype="multipart/form-data" class="form-horizontal well">
             <div class="form-group form-inline">
                 <label for="name">Name: </label>
                 <input id="name" name="name" placeholder="Ex)Sunghie Lee" class="form-control">
-            </div>
-            <div class="form-group form-inline">
-                <label for="phone">Phone: </label>
-                <input id="phone" name="phone" placeholder="Ex)705 500 2194" class="form-control">
             </div>
             <div class="form-group form-inline">
                 <label for="email">Email: </label>
